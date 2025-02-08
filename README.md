@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyom Parial</h1>
 <h3 align="center"> A Computer Science enthusiast currently studying at Ahsanullah University of Science and Technology. I have a passion for coding and problem-solving, and eager to learn new technologies and improve my skills.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952lmbyuq6fggmjpaiyftxjao8fxm67fd0aej2cpan8&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952lmbyuq6fggmjpaiyftxjao8fxm67fd0aej2cpan8&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyom-17&label=Profile%20views&color=0e75b6&style=flat" alt="priyom-17" /> </p>
 
